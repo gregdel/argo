@@ -1,4 +1,4 @@
-module github.com/zyxar/argo
+module github.com/gregdel/argo
 
 require (
 	github.com/gorilla/rpc v1.1.0
